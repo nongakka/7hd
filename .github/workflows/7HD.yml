@@ -1,0 +1,38 @@
+name: 7HD
+
+on:
+  schedule:
+    - cron: "0 15 * * *" 
+  workflow_dispatch:      
+
+permissions:
+  contents: write
+  
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📦 Install deps
+        run: |
+          npm install
+          npx playwright install --with-deps
+
+      - name: 🚀 Run scraper
+        run: node scraper.js
+
+      - name: 💾 Commit changes
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "auto update" || echo "no changes"
+          git push
