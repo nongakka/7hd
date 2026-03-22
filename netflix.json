@@ -1,0 +1,285 @@
+{
+  "name": "หนัง Netflix",
+  "stations": [
+    {
+      "name": "พีกี้ ไบลน์เดอร์ส ชายผู้เป็นอมตะ Peaky Blinders The Immortal Man (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-20-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-14.20.05-e1774004186984.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/gRL-WY_bjT1rw/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/gRL-WY_bjT1rw"
+        }
+      ]
+    },
+    {
+      "name": "แผนพิพากษา ซีซั่น 4 The Lincoln Lawyer Season 4 (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-20-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-14.19.50-e1774004208802.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/DQ9KIwa_G-Q22/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/DQ9KIwa_G-Q22"
+        }
+      ]
+    },
+    {
+      "name": "100 ปี เดอะ นิวยอร์กเกอร์ The New Yorker at 100 (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-05.28.25-e1773873213384.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/PNcwKr_Pn-Lti/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/PNcwKr_Pn-Lti"
+        }
+      ]
+    },
+    {
+      "name": "กลบความจริง Cover-Up (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-05.27.35-e1773873316267.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/tQm-uwFz_M087/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/tQm-uwFz_M087"
+        }
+      ]
+    },
+    {
+      "name": "นี่คือตัวฉัน This is I (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-05.26.58-e1773873338786.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/B9qg-SqaRX_el/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/B9qg-SqaRX_el"
+        }
+      ]
+    },
+    {
+      "name": "ล่าหยก 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-08.49.38-e1773798612699.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/ukvpGS-6G_Bh2/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/ukvpGS-6G_Bh2"
+        }
+      ]
+    },
+    {
+      "name": "มหัศจรรย์ฮอกกี้ปี 80 Miracle The Boys of 80 (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-17-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-12.11.36-e1773724380538.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/c-51QwN9_e8w6/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/c-51QwN9_e8w6"
+        }
+      ]
+    },
+    {
+      "name": "ราชินีหมากรุก Queen of Chess (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-17-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-12.11.05-e1773724515891.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/r-hV_32ByNH7F/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/r-hV_32ByNH7F"
+        }
+      ]
+    },
+    {
+      "name": "ฆาตกรติ๊กต๊อก The TikTok Killer (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-17-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-12.10.50-e1773724574977.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/NLlQ4_oI7-1sw/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/NLlQ4_oI7-1sw"
+        }
+      ]
+    },
+    {
+      "name": "สตรีมมิ่ง Streaming (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-17-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-12.10.34-e1773724602848.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/c-51QwN9_e8w6/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/c-51QwN9_e8w6"
+        }
+      ]
+    },
+    {
+      "name": "สร้างฝันในเกาหลี Made in Korea (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-15-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-15.06.31-e1773564812666.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/DeJOdnDQ-i_8w/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/DeJOdnDQ-i_8w"
+        }
+      ]
+    },
+    {
+      "name": "หลุยส์ เทอโรซ์ เจาะโลกยุคใหม่ของชายนิยม Louis Theroux Inside the Manosphere (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.59.36-e1773512581928.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/T2w-VQ_sF9TDD/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/T2w-VQ_sF9TDD"
+        }
+      ]
+    },
+    {
+      "name": "หนุ่มบ้านๆ กับฝันระดับราชา Anaganaga Oka Raju (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-12.05.45-e1773464927487.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/cYVBZ_hhv-WfH/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/cYVBZ_hhv-WfH"
+        }
+      ]
+    },
+    {
+      "name": "เดอะ ไดโนเสาร์ กำเนิดและดับสูญ The Dinosaurs (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-11-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-17.57.29-e1773226820577.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/o-cgG_ROsQOOA/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/o-cgG_ROsQOOA"
+        }
+      ]
+    },
+    {
+      "name": "วันพีช เน็ตฟลิกซ์ 2 One Piece Netflix 2 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-11-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-02.09.59-e1773170376865.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/xh-pL2_OYX9tY/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/xh-pL2_OYX9tY"
+        }
+      ]
+    },
+    {
+      "name": "เด็กใหม่ 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-16.07.13-e1772961019888.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/KvA_3eY-28YJD/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/KvA_3eY-28YJD"
+        }
+      ]
+    },
+    {
+      "name": "แฟนสมมติสะดุดรัก Boyfriend on Demand (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-07-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-22.59.21-e1772899255594.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/U4lIXHD-nW_Ea/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/U4lIXHD-nW_Ea"
+        }
+      ]
+    },
+    {
+      "name": "อนงค์ 2 สามสี่ชาติ (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-14.27.29-e1772695872503.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/c27r_TOs-G4Oi/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/c27r_TOs-G4Oi"
+        }
+      ]
+    },
+    {
+      "name": "คริสตี้ Christy (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-04-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-14.04.04-e1772633094819.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/3Q-5_yvZL2qs7/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/3Q-5_yvZL2qs7"
+        }
+      ]
+    },
+    {
+      "name": "Metro in Dino (2025) หลากชีวิตวันนี้… ในเมืองใหญ่",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-02-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-12.03.22-e1772428354907.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/SXPRs_Y-kpRWS/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/SXPRs_Y-kpRWS"
+        }
+      ]
+    }
+  ]
+}
