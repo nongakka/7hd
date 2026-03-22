@@ -132,6 +132,7 @@ async function scrapeList(page, url) {
 async function scrapeAllPages(page, baseUrl) {
   let currentPage = 1;
   let all = [];
+  let lastFirstItem = null;
 
   while (true) {
     const url =
@@ -155,6 +156,15 @@ async function scrapeAllPages(page, baseUrl) {
     );
 
     if (items.length === 0) break;
+
+    // 🔥 เช็ค "หน้าซ้ำ"
+    const firstItem = items[0]?.link;
+    if (firstItem === lastFirstItem) {
+      console.log('🛑 reached last page');
+      break;
+    }
+
+    lastFirstItem = firstItem;
 
     all.push(...items);
     currentPage++;
