@@ -5320,6 +5320,34 @@
           "url": "https://weplayhls.xyz/embed/2c9u7_DgZ-SYb"
         }
       ]
+    },
+    {
+      "name": "เชอร์โนบิล มหันตภัยนิวเคลียร์โลกไม่ลืม (2019) Chernobyl",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-08.49.06-e1773798632454.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/4s_V-goTtKnaz/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/4s_V-goTtKnaz"
+        }
+      ]
+    },
+    {
+      "name": "ฆาตกรติ๊กต๊อก The TikTok Killer (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-17-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-12.10.50-e1773724574977.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/NLlQ4_oI7-1sw/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/NLlQ4_oI7-1sw"
+        }
+      ]
     }
   ]
 }
