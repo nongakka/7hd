@@ -27,7 +27,7 @@ jobs:
           npx playwright install --with-deps
 
       - name: 🚀 Run scraper
-        run: node scraper.js
+        run: node 7hd.js
 
       - name: 💾 Commit changes
         run: |
