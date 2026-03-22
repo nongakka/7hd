@@ -28,9 +28,18 @@ function saveProgress(file, data) {
 function gitCommit(msg) {
   try {
     execSync('git add .');
-    execSync(`git commit -m "${msg}"`);
-    execSync('git push');
-    console.log('🚀 pushed to github');
+
+    // commit (ถ้ามีการเปลี่ยนแปลง)
+    execSync(`git commit -m "${msg}" || echo "no changes"`);
+
+    // ❗ push เฉพาะตอน local
+    if (!process.env.GITHUB_ACTIONS) {
+      execSync('git push');
+      console.log('🚀 pushed (local)');
+    } else {
+      console.log('📦 commit only (CI)');
+    }
+
   } catch (e) {
     console.log('⚠️ git skip');
   }
