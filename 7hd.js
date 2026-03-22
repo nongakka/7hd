@@ -1,13 +1,63 @@
 const { chromium } = require('playwright');
 const fs = require('fs-extra');
 const { execSync } = require('child_process');
-
+const isCI = process.env.GITHUB_ACTIONS === 'true';
 // ===== CONFIG =====
 const CATEGORIES = [
   {
     name: 'หนังใหม่ 2026',
     file: 'newmovie-2026',
     url: 'https://7-hd.com/newmovie-2026/'
+  },
+  {
+    name: 'หนังใหม่ 2025',
+    file: 'movie-2025',
+    url: 'https://7-hd.com/movie-2025/'
+  },
+  {
+    name: 'หนัง action',
+    file: 'action',
+    url: 'https://7-hd.com/action/'
+  },
+  {
+    name: 'หนังไทย',
+    file: 'thai-movie',
+    url: 'https://7-hd.com/thai-movie/'
+  },
+ {
+    name: 'หนังฝรั่ง',
+    file: 'inter',
+    url: 'https://7-hd.com/international/'
+  },
+  {
+    name: 'หนังเกาหลี',
+    file: 'korean',
+    url: 'https://7-hd.com/korean-movie/'
+  },
+  {
+    name: 'หนังจีน',
+    file: 'chinese',
+    url: 'https://7-hd.com/chinese-movie/'
+  },
+  {
+    name: 'หนังญี่ปุ่น',
+    file: 'japanese',
+    url: 'https://7-hd.com/japanese-movie/'
+  },
+  {
+    name: 'หนัง Netflix',
+    file: 'netflix',
+    url: 'https://7-hd.com/netflix/'
+  },
+  {
+    name: 'หนัง Marvel',
+    file: 'marvel',
+    url: 'https://7-hd.com/marvel-universe/'
+  },
+  {
+    name: 'หนัง DC',
+    file: 'dc',
+    url: 'https://7-hd.com/dc-universe/'
   },
   
 ];
