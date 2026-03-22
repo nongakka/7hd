@@ -35,4 +35,5 @@ jobs:
           git config --global user.email "bot@github.com"
           git add .
           git commit -m "auto update" || echo "no changes"
+          git pull --rebase
           git push
