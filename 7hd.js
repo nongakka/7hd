@@ -77,13 +77,15 @@ function saveProgress(file, data) {
 // ===== GIT =====
 function gitCommit(msg) {
   try {
+    // ✅ ตั้งค่า identity (สำคัญมาก)
+    execSync('git config user.name "github-actions[bot]"');
+    execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
+
     execSync('git add .');
 
-    // commit (ถ้ามีการเปลี่ยนแปลง)
     execSync(`git commit -m "${msg}" || echo "no changes"`);
 
-    // ❗ push เฉพาะตอน local
-    if (!process.env.GITHUB_ACTIONS) {
+    if (!isCI) {
       execSync('git push');
       console.log('🚀 pushed (local)');
     } else {
@@ -127,6 +129,40 @@ async function scrapeList(page, url) {
   });
 }
 
+async function scrapeAllPages(page, baseUrl) {
+  let currentPage = 1;
+  let all = [];
+
+  while (true) {
+    const url =
+      currentPage === 1
+        ? baseUrl
+        : `${baseUrl}page/${currentPage}/`;
+
+    console.log(`📄 Page ${currentPage}`);
+
+    await page.goto(url, { waitUntil: 'domcontentloaded' });
+    await page.waitForTimeout(2000);
+
+    const items = await page.$$eval('a[aria-label]', (els) =>
+      els.map(a => ({
+        title:
+          a.querySelector('.p2')?.innerText.trim() ||
+          a.getAttribute('aria-label'),
+        link: a.href,
+        poster: a.querySelector('img')?.src || null
+      }))
+    );
+
+    if (items.length === 0) break;
+
+    all.push(...items);
+    currentPage++;
+  }
+
+  return all;
+}
+
 // ===== SCRAPE MOVIE =====
 async function scrapeMovie(page, url) {
   await page.goto(url, { waitUntil: 'domcontentloaded' });
@@ -158,8 +194,13 @@ async function scrapeMovie(page, url) {
     const progressFile = `./progress-${cat.file}.json`;
     const progress = loadProgress(progressFile);
 
-    const list = await scrapeList(page, cat.url);
-    const results = [];
+    const list = await scrapeAllPages(page, cat.url);
+    let results = [];
+
+if (fs.existsSync(`./${cat.file}.json`)) {
+  const old = await fs.readJson(`./${cat.file}.json`);
+  results = old.stations || [];
+}
 
     for (const movie of list) {
       console.log(`🎬 ${movie.title}`);
@@ -181,7 +222,10 @@ async function scrapeMovie(page, url) {
         console.log('❌ no streams');
         continue;
       }
-
+      if (results.find(r => r.name === movie.title)) {
+  console.log('⏩ duplicate');
+  continue;
+}
       // ===== FORMAT =====
       results.push({
         name: movie.title,
@@ -204,10 +248,16 @@ async function scrapeMovie(page, url) {
 
       // ===== AUTO COMMIT EVERY 20 =====
       if (results.length % 20 === 0) {
-        gitCommit(`progress ${cat.file}`);
-      }
-    }
+  await fs.writeJson(`./${cat.file}.json`, {
+    name: cat.name,
+    stations: results
+  }, { spaces: 2 });
 
+  console.log('💾 autosave json');
+
+  gitCommit(`progress ${cat.file} (${results.length})`);
+}
+}
     // ===== SAVE JSON =====
     const jsonData = {
       name: cat.name,
