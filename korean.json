@@ -1386,6 +1386,20 @@
           "url": "https://weplayhls.xyz/embed/NLlQ4_oI7-1sw"
         }
       ]
+    },
+    {
+      "name": "เดอะ เรซ The Race (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-23-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-14.11.05-e1774250008899.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/hj-UrrUzR_gGl/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/hj-UrrUzR_gGl"
+        }
+      ]
     }
   ]
 }
