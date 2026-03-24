@@ -217,9 +217,9 @@ if (fs.existsSync(`./${cat.file}.json`)) {
 
       // ===== RESUME SKIP =====
       if (progress.done.includes(movie.link)) {
-        console.log('⏩ skip');
-        continue;
-      }
+  console.log('⏩ skip → ไม่มีของใหม่ต่อ');
+  break;  // 🔹 ถ้าเจอของเก่า → stop scraping
+}
 
       const embed = await scrapeMovie(page, movie.link);
       if (!embed) {
@@ -237,20 +237,19 @@ if (fs.existsSync(`./${cat.file}.json`)) {
   continue;
 }
       // ===== FORMAT =====
-      results.push({
-        name: movie.title,
-        image: movie.poster,
-        servers: [
-          {
-            name: "⚡ M3U8",
-            url: streams.m3u8
-          },
-          {
-            name: "🎬 Embed",
-            url: streams.embed
-          }
-        ]
-      });
+      // 🔹 ถ้าไม่มีอยู่แล้ว → ใส่ด้านบน
+if (!results.find(r => r.name === movie.title)) {
+  results.unshift({  // 🔥 unshift แทน push
+    name: movie.title,
+    image: movie.poster,
+    servers: [
+      { name: "⚡ M3U8", url: streams.m3u8 },
+      { name: "🎬 Embed", url: streams.embed }
+    ]
+  });
+} else {
+  console.log('⏩ duplicate');
+}
 
       // ===== SAVE PROGRESS =====
       progress.done.push(movie.link);
