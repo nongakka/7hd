@@ -2,6 +2,48 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "ดราก้อน DRAGN (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-24-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-17.20.04-e1774348009190.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/q_uJJb-y0MZqL/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/q_uJJb-y0MZqL"
+        }
+      ]
+    },
+    {
+      "name": "มฤตยูแหวกโลก Worldbreaker (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-24-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-17.20.23-e1774347986628.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Bn-wlh4nAb_h6/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Bn-wlh4nAb_h6"
+        }
+      ]
+    },
+    {
+      "name": "เซต้า ปริศนาจารชน Agent Zeta (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-25-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-05.34.26-e1774391756155.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/eJ4_Ja5-9gpsJ/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/eJ4_Ja5-9gpsJ"
+        }
+      ]
+    },
+    {
       "name": "เดอะเดรสเดนซัน The Dresden Sun (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-18.16.01-e1774091834839.png",
       "servers": [
