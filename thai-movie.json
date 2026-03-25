@@ -2,6 +2,20 @@
   "name": "หนังไทย",
   "stations": [
     {
+      "name": "คืนสยองห้องดับจิต The Mortuary Assistant (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-25-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.58.11-e1774375214576.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Xmju-IJGhS_0B/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Xmju-IJGhS_0B"
+        }
+      ]
+    },
+    {
       "name": "จอมขมังเวทย์ 2026",
       "image": "https://7-hd.com/wp-content/uploads/2026/02/-2569-02-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.49.12-e1771618409688.png",
       "servers": [
