@@ -2,6 +2,62 @@
   "name": "หนังใหม่ 2025",
   "stations": [
     {
+      "name": "ดราก้อน DRAGN (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-24-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-17.20.04-e1774348009190.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/q_uJJb-y0MZqL/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/q_uJJb-y0MZqL"
+        }
+      ]
+    },
+    {
+      "name": "มฤตยูแหวกโลก Worldbreaker (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-24-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-17.20.23-e1774347986628.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Bn-wlh4nAb_h6/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Bn-wlh4nAb_h6"
+        }
+      ]
+    },
+    {
+      "name": "เมะรูโกะ ชาน ใครว่าหนูเห็นผี Mieruko-chan (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-24-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-17.20.57-e1774347943868.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/7_FNjnz-cIkwB/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/7_FNjnz-cIkwB"
+        }
+      ]
+    },
+    {
+      "name": "คุนเซ็น Kuncen (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-24-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-17.23.13-e1774347916509.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/E-AWOdTBb_ngW/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/E-AWOdTBb_ngW"
+        }
+      ]
+    },
+    {
       "name": "คืนสยองห้องดับจิต The Mortuary Assistant (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-25-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.58.11-e1774375214576.png",
       "servers": [
