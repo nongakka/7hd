@@ -2,6 +2,34 @@
   "name": "หนัง Netflix",
   "stations": [
     {
+      "name": "จากบาร์บาร่าสู่ชีริน ดาวิด Barbara Becoming Shirin David (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-26-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-10.55.26-e1774497372696.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/9-MKr1et2_zjU/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/9-MKr1et2_zjU"
+        }
+      ]
+    },
+    {
+      "name": "เดร์เดวิล บอร์น อะเกน 1 Daredevil born again season 1 2025",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-26-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-11.16.12-e1774498951558.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/eBPrMR_e-fm5Z/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/eBPrMR_e-fm5Z"
+        }
+      ]
+    },
+    {
       "name": "บริดเจอร์ตัน วังวนรัก เกมไฮโซ ซีซั่น 4 Bridgerton Season 4 (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-25-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.58.28-e1774375188482.png",
       "servers": [
