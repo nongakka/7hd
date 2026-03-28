@@ -2,6 +2,34 @@
   "name": "หนังใหม่ 2025",
   "stations": [
     {
+      "name": "พินัยกรรมของแอนน์ ลี The Testament Of Ann Lee (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-28-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.26.24-e1774632475213.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/esMNF_F-oE8x9/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/esMNF_F-oE8x9"
+        }
+      ]
+    },
+    {
+      "name": "เฟิร์ท มูน First Moon (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-28-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.26.44-e1774632454374.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/jt-yxRgJz_rQz/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/jt-yxRgJz_rQz"
+        }
+      ]
+    },
+    {
       "name": "บันทึกประจำวันของปิลาร์ในป่าอะเมซอน Pilar’s Diary in the Amazon (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-26-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-22.28.44-e1774539276322.png",
       "servers": [
