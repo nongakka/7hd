@@ -2,6 +2,48 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "เดอะ ไฟร์ เรเวน The Fire Raven 2025",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.35.00-e1774724252472.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/6pH-KL_kcvkQd/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/6pH-KL_kcvkQd"
+        }
+      ]
+    },
+    {
+      "name": "โยจิดะ Yogi Da (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.36.12-e1774724076751.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/8XE_G21j-XWEJ/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/8XE_G21j-XWEJ"
+        }
+      ]
+    },
+    {
+      "name": "โปรเทคเตอร์ Protector (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.34.41-e1774724348945.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/uk3D-vDCJT_Zp/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/uk3D-vDCJT_Zp"
+        }
+      ]
+    },
+    {
       "name": "ฝ่าแดนสงครามนรก BREAK THROUGH (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-28-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.25.01-e1774632522719.png",
       "servers": [
