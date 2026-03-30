@@ -2,6 +2,48 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "ดาบชิงหลงยั้นเยว่ Knights Of Valour (2021)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-16.47.54-e1774777846953.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/K-3g_ejn7IMwZ/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/K-3g_ejn7IMwZ"
+        }
+      ]
+    },
+    {
+      "name": "ไมค์ นิค นิค อลิซ Mike & Nick & Nick & Alice (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-16.45.21-e1774778049125.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/5Kp9-XKj_QmbE/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/5Kp9-XKj_QmbE"
+        }
+      ]
+    },
+    {
+      "name": "กระบี่แห่งตำนาน จิตวิญญาณและคมดาบ Swords of Legends Soul and Blade (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-18.58.07-e1774785515338.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/N9-gfLlP_VkRw/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/N9-gfLlP_VkRw"
+        }
+      ]
+    },
+    {
       "name": "เดอะ ไฟร์ เรเวน The Fire Raven 2025",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.35.00-e1774724252472.png",
       "servers": [
