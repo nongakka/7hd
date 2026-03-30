@@ -2,6 +2,20 @@
   "name": "หนังจีน",
   "stations": [
     {
+      "name": "กระบี่แห่งตำนาน จิตวิญญาณและคมดาบ Swords of Legends Soul and Blade (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-18.58.07-e1774785515338.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/N9-gfLlP_VkRw/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/N9-gfLlP_VkRw"
+        }
+      ]
+    },
+    {
       "name": "ฝ่าแดนสงครามนรก BREAK THROUGH (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-28-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.25.01-e1774632522719.png",
       "servers": [
