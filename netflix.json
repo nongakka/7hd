@@ -2,6 +2,20 @@
   "name": "หนัง Netflix",
   "stations": [
     {
+      "name": "การกลับมาของ BTS Arirang BTS the Comeback Live Arirang (2026) BTS 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-16.47.11-e1774777904900.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/reSaJp_leJ-K8/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/reSaJp_leJ-K8"
+        }
+      ]
+    },
+    {
       "name": "เดร์เดวิล บอร์น อะเกน 2 Daredevil born again season 2 2026",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-26-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-11.16.30-e1774498971730.png",
       "servers": [
