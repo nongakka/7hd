@@ -2,6 +2,20 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "อัมสเตอร์ดัมเนด 2 Amsterdamned II (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-16.39.59-e1774778135108.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/T_45O6Ph-vpUv/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/T_45O6Ph-vpUv"
+        }
+      ]
+    },
+    {
       "name": "ดาบชิงหลงยั้นเยว่ Knights Of Valour (2021)",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-16.47.54-e1774777846953.png",
       "servers": [
