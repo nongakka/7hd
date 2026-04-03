@@ -2,6 +2,34 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "เกมจารชนคนในเงา Humint (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-02-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-22.25.13-e1775143717771.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/OnDAy_CP-kw6U/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/OnDAy_CP-kw6U"
+        }
+      ]
+    },
+    {
+      "name": "วอร์ไดเวอร์ Wardriver (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-02-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-22.24.23-e1775143740862.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/kUz9EXpP_t-ti/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/kUz9EXpP_t-ti"
+        }
+      ]
+    },
+    {
       "name": "กาโร่ ไทกะ กำเนิดอัศวินหมาป่าทองคำ GARO Taiga (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-29-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-16.48.28-e1774777817816.png",
       "servers": [
