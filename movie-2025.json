@@ -2,6 +2,34 @@
   "name": "หนังใหม่ 2025",
   "stations": [
     {
+      "name": "ปาเลสไตน์ 36 Palestine 36 (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.16.08-e1775233010515.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/2k-Tj_22PvaTE/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/2k-Tj_22PvaTE"
+        }
+      ]
+    },
+    {
+      "name": "เซ็กส์ ออน โฟน Sex on Phone (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-04-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-08.37.29-e1775266934580.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/60t-e_LW3lDGY/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/60t-e_LW3lDGY"
+        }
+      ]
+    },
+    {
       "name": "เดอะ ซูเปอร์ มาริโอ้ บราเธอร์ส มูฟวี่ The Super Mario Bros Movie (2023)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-04-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-08.37.43-e1775266814156.png",
       "servers": [
