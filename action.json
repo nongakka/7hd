@@ -2,6 +2,48 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "โมบิลสูทกันดัม ฮาธาเวย์ Mobile Suit Gundam Hathaway (2021)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.15.45-e1775233031206.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/A_4ESgHGSK-IN/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/A_4ESgHGSK-IN"
+        }
+      ]
+    },
+    {
+      "name": "ภาพยนตร์ซูเปอร์มาริโอกาแล็กซี The Super Mario Galaxy Movie (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.40.57-e1775234590341.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/k-7_TdsFD8OLh/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/k-7_TdsFD8OLh"
+        }
+      ]
+    },
+    {
+      "name": "ซูเปอร์มาริโอ Super Mario Bros (1993)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-04-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-08.38.46-e1775266766777.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/B_PHdIKo-j1aw/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/B_PHdIKo-j1aw"
+        }
+      ]
+    },
+    {
       "name": "เกมจารชนคนในเงา Humint (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-02-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-22.25.13-e1775143717771.png",
       "servers": [
