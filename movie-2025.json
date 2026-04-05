@@ -2,6 +2,20 @@
   "name": "หนังใหม่ 2025",
   "stations": [
     {
+      "name": "สมบัติชาติ Kokuho (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-13.50.35-e1775371894110.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/aibo_Q5a-FdVb/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/aibo_Q5a-FdVb"
+        }
+      ]
+    },
+    {
       "name": "ปาเลสไตน์ 36 Palestine 36 (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.16.08-e1775233010515.png",
       "servers": [
