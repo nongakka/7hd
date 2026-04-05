@@ -2,6 +2,20 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "บลัดฮาวด์ 2 หมาล่าเนื้อ 2 Bloodhounds 2 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.54.11-e1775325522297.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/3447eN-Ri_O76/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/3447eN-Ri_O76"
+        }
+      ]
+    },
+    {
       "name": "โมบิลสูทกันดัม ฮาธาเวย์ Mobile Suit Gundam Hathaway (2021)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.15.45-e1775233031206.png",
       "servers": [
