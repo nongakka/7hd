@@ -2,6 +2,34 @@
   "name": "หนัง Netflix",
   "stations": [
     {
+      "name": "ตำนานฟุตบอลเหนือธรรมดา Lefter The Story Of The Ordinarius (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.39.07-e1775407352179.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/w-6Ly_HAxYVGy/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/w-6Ly_HAxYVGy"
+        }
+      ]
+    },
+    {
+      "name": "ความตายและชีวิตของลามาร์ โอดอม Untold The Death And Life Of Lamar Odom (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.38.24-e1775407302687.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Gj_c7N-aYB7Eg/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Gj_c7N-aYB7Eg"
+        }
+      ]
+    },
+    {
       "name": "บลัดฮาวด์ 2 หมาล่าเนื้อ 2 Bloodhounds 2 2026",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.54.11-e1775325522297.png",
       "servers": [
