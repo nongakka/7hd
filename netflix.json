@@ -2,6 +2,34 @@
   "name": "หนัง Netflix",
   "stations": [
     {
+      "name": "ยอดนักสืบแฮร์รี โฮล Detective Hole 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-06-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.20.37-e1775478407708.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/mlNu9_NKh-X8K/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/mlNu9_NKh-X8K"
+        }
+      ]
+    },
+    {
+      "name": "สัมผัสแห่งเสีย Feel My Voice (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-06-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.19.42-e1775478339594.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/h6-a_tzZO3hOp/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/h6-a_tzZO3hOp"
+        }
+      ]
+    },
+    {
       "name": "ตำนานฟุตบอลเหนือธรรมดา Lefter The Story Of The Ordinarius (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-23.39.07-e1775407352179.png",
       "servers": [
