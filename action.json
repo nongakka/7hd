@@ -2,6 +2,20 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "หญิงเหล็กล่าทมิฬ 3 Mardaani 3 (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-02.24.18-e1775590061397.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/gcI_S4-KiJR9d/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/gcI_S4-KiJR9d"
+        }
+      ]
+    },
+    {
       "name": "ยอดนักสืบแฮร์รี โฮล Detective Hole 2026",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-06-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.20.37-e1775478407708.png",
       "servers": [
