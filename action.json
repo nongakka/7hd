@@ -2,6 +2,48 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "สไนเปอร์ไร้สังกัด Sniper No Nation (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.58.36-e1775660807381.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/EG_W7t-a5KLbg/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/EG_W7t-a5KLbg"
+        }
+      ]
+    },
+    {
+      "name": "อำพรางสวรรค์ Shrounding The Heavens Movie Fighting Against Wang Teng With Copper Coffin (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.56.51-e1775660748488.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/p_c4PSK-Wxidl/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/p_c4PSK-Wxidl"
+        }
+      ]
+    },
+    {
+      "name": "เจ้าสาว! The Bride!",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-10.55.21-e1775707228871.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/2tn7-BTd2_cqX/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/2tn7-BTd2_cqX"
+        }
+      ]
+    },
+    {
       "name": "หญิงเหล็กล่าทมิฬ 3 Mardaani 3 (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-02.24.18-e1775590061397.png",
       "servers": [
