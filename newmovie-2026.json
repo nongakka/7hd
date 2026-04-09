@@ -2,6 +2,48 @@
   "name": "หนังใหม่ 2026",
   "stations": [
     {
+      "name": "เจ้าสาว! The Bride!",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-10.55.21-e1775707228871.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/2tn7-BTd2_cqX/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/2tn7-BTd2_cqX"
+        }
+      ]
+    },
+    {
+      "name": "ดีว่าราวี Diva La Vie 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-10.54.21-e1775707188215.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/3_PcXZVN-7Bka/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/3_PcXZVN-7Bka"
+        }
+      ]
+    },
+    {
+      "name": "พิซซ่า มูฟวี่ Pizza Movie 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-10.53.00-e1775707141234.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Z3y_C5-Edg6BG/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Z3y_C5-Edg6BG"
+        }
+      ]
+    },
+    {
       "name": "คู่แข่งหมากรุก Untold Chess Mates (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-02.24.31-e1775590084435.png",
       "servers": [
