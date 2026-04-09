@@ -2,6 +2,20 @@
   "name": "หนังจีน",
   "stations": [
     {
+      "name": "อำพรางสวรรค์ Shrounding The Heavens Movie Fighting Against Wang Teng With Copper Coffin (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.56.51-e1775660748488.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/p_c4PSK-Wxidl/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/p_c4PSK-Wxidl"
+        }
+      ]
+    },
+    {
       "name": "ตำนานหลิงจิง Legend of Ling Jing (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-06-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.20.01-e1775478362133.png",
       "servers": [
