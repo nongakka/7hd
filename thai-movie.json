@@ -2,6 +2,20 @@
   "name": "หนังไทย",
   "stations": [
     {
+      "name": "ดีว่าราวี Diva La Vie 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-10.54.21-e1775707188215.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/3_PcXZVN-7Bka/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/3_PcXZVN-7Bka"
+        }
+      ]
+    },
+    {
       "name": "ปิ๊ด ปี้ ปิ๊ด ยกก๊วนกิ๊กสาว 2 Sex is zero 2 (2007)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-02-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-22.23.21-e1775143801457.png",
       "servers": [
