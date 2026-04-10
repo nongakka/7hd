@@ -2,6 +2,20 @@
   "name": "หนัง Netflix",
   "stations": [
     {
+      "name": "กุหลาบแรกแย้ม 18th Rose (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-10-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-14.47.37-e1775807522261.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/OKzs_7XD-wmjC/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/OKzs_7XD-wmjC"
+        }
+      ]
+    },
+    {
       "name": "คู่แข่งหมากรุก Untold Chess Mates (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-02.24.31-e1775590084435.png",
       "servers": [
